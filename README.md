@@ -4,9 +4,6 @@ This repository contains example FEniCSx finite element simulation codes for a l
 
 Specifically, the repository contains all the relevant FEniCSx Jupyter notebooks, mesh files, and experimental data files which were used in the representative example simulations in the accompanying paper, "Magnetostriction of soft-magnetoreheological elastomers," by Eric M. Stewart and Lallit Anand.
 
-# Movies
-
-<br/><br/>
 
 ![](https://github.com/ericstewart36/softmagnetics/blob/main/example_movies.gif)
 
