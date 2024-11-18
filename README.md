@@ -8,7 +8,7 @@ Specifically, the repository contains all the relevant FEniCSx Jupyter notebooks
 ![](https://github.com/ericstewart36/softmagnetics/blob/main/example_movies.gif)
 
 # Citation
-The paper has been submitted but not yet published. Please contact me (ericstew@mit.edu) for up-to-date citation information if you use these codes in your own research.
+- Stewart, E.M. and Anand L., 2025. Magnetostriction of soft-magnetorheological elastomers. Journal of the Mechanics and Physics of Solids 194, 105934.
 
 # Running the codes
 
